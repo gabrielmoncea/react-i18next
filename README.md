@@ -102,9 +102,14 @@ $ npm install react-i18next
 
 - If you don't use a module loader it will be added to `window.reactI18next`
 
-### Examples
+### v10 examples
 
 - [Example react](https://github.com/i18next/react-i18next/tree/master/example/react)
+- [Example react-native](https://github.com/i18next/react-i18next/tree/master/example/react-native)
+- [Example razzle](https://github.com/i18next/react-i18next/tree/master/example/v9.x.x/razzle-ssr)
+- [Example storybook](https://github.com/i18next/react-i18next/tree/master/example/storybook)
+- [Example locize.com](https://github.com/i18next/react-i18next/tree/master/example/locize-example)
+- [Example test with jest](https://github.com/i18next/react-i18next/tree/master/example/test-jest)
 
 #### v9 samples
 
